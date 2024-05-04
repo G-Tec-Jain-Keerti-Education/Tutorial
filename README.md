@@ -2,7 +2,7 @@
 # Programming Courses Curriculum Materials
 
 Welcome to the programming courses curriculum materials repository! This repository contains course materials for various programming languages and technologies.
-
+# Note :  Admin permissions required to access the course materials.
 ## Course List
 
 | Course Name           | Link                                                                                         |
